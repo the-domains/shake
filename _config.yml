@@ -1,0 +1,28 @@
+name: shake
+favicon: null
+layout_spectrum: 0.33142861258238554
+typography_spectrum: 0.1677544959820807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2030268597882241
+  lightness: 0.7981322936248034
+  saturation: 0.21703792642802
+  rhythmicContrast: 0.934199781389907
+purpose: []
